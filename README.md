@@ -6,7 +6,7 @@ which modified from [MobileNetV2_unet](https://github.com/akirasosa/mobile-seman
 ## Overview
 ![PortraitNet](https://github.com/wpf535236337/pytorch_PortraitNet/blob/master/pic/PortraitNet.png)
 
-## Speed and Model sizeanalysis
+## Speed and Model size analysis
 
 ![PortraitNet](https://github.com/wpf535236337/pytorch_PortraitNet/blob/master/pic/speed.png)
 
